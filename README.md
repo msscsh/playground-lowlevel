@@ -2,5 +2,5 @@
 
 ## For rust
 ```
-sudo apt install rustc
+	sudo apt install rustc
 ```
